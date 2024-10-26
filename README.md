@@ -1,7 +1,7 @@
 
 # Clonar una Referencia (One Page) 🌟
 
-La siguiente actividad corresponde a una evaluación sobre los conocimientos adquiridos en la fase de HTML + CSS clonando así un diseño de referencia proporcionada.
+La siguiente actividad corresponde a una evaluación sobre los conocimientos adquiridos en la fase de HTML + CSS clonando así un diseño de referencia proporcionada, como evaluacion de la Diplomatura en Full Stack de UTN.
 
 ## 📂 Contenido
 1. Navbar: Barra de navegación realizada con Bootstrap.
